@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Seetharam Krishnapuram Sreehari say"
-  avatar           : \images\biopic.jpg"
+  avatar           : "\images\biopic.jpg"
   bio              : "I am a useless person."
   location         : "Somewhere"
   email            :
