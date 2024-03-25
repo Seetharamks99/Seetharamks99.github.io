@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-
+image                    : images/biopic.jpg
 locale                   : "en-US"
 title                    : "Seetharam's personal website"
 title_separator          : "-"
@@ -306,5 +306,4 @@ defaults:
     values:
       layout: single
   #_header
-  - header:
-      image: images/biopic.jpg
+  
