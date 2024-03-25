@@ -29,7 +29,7 @@ logo                     : #"/images/biopic.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /images/biopic.jpg
+  overlay_image: "/images/biopic.jpg"
   caption: "Photo credit: [**Unsplash**](https://www.linkedin.com/in/ks-seetharam/)"
   actions:
     - label: "More Info"
