@@ -123,7 +123,7 @@ author:
      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/ks-seetharam/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
