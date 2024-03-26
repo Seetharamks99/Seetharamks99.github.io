@@ -9,7 +9,7 @@ intro:
     robots, locomotion etc"
 feature_row:
   - image_path: images/EAD_Seetharam.jpg
-    url: "_pages/Interest.md"
+    url: "_pages/Interest"
     btn_label: "Interest"
 
 
