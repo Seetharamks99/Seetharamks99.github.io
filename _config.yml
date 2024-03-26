@@ -15,12 +15,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Seetharam's website"
+title                    : #"Seetharam's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seetharam Krishnapuram"
 description              : "The personal website of Seetharam Krishnapuram."
-url                      : "https://www.seetharamks99.com"
+url                      : "https://seetharamks99.github.io"
 giturl                   : "seetharamks99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seetharamks99/Seetharamks99.github.io"
@@ -145,9 +145,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ks-seetharam/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
