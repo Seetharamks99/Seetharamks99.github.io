@@ -24,6 +24,16 @@ feature_row1:
     link_label: "View Research"    
     link_url:  /about/
     btn_class: "btn--primary"
+
+
+feature_row2:
+  - image_path: images/biopic.jpg
+    alt: "Research Image2"
+    title: "Portfolio"
+    excerpt: "This is my portfolio."
+    link_label: "View Portfolio"    
+    link_url:  "https://drive.google.com/file/d/1Kkfeua_lQ5ger3Bzts1QZBZviyRxgLIB/view?usp=drive_link"
+    btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -31,6 +41,6 @@ feature_row1:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-#{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-#{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
