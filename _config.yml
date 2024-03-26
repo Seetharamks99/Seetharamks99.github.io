@@ -20,7 +20,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seetharam Krishnapuram"
 description              : "The personal website of Seetharam Krishnapuram."
-url                      : "https://seetharamks99.github.io"
+url                      : "https://seetharamks99.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seetharamks99/Seetharamks99.github.io"
 teaser                   : #"/images/biopic.jpg"
