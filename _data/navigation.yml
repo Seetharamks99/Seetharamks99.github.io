@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /Interest/
   - title: "Research and projects."
-    url: "_pages/about"
+    url: /about/
   - title: "CV"
-    url: "/about/"
+    url: /about/
   - title: "Fun"
