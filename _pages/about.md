@@ -11,6 +11,7 @@ feature_row:
   - image_path: images/EAD_Seetharam.jpg
     url: /Interest/
     btn_label: "Interest"
+    btn_class: "btn--primary"
 
 ---
 {% include feature_row id="intro" type="center" %}
