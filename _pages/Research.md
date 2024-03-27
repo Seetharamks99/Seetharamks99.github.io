@@ -9,6 +9,7 @@ intro:
     My research focused on the design, development and control of upper body exoskeletons, particularly to augment human lifting."
     url: "https://www.assistiveroboticslab.com/"
     btn_label: "Assistive Robotics Lab"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id = "intro" type = "center"%}
