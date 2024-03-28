@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /Interest/
-  - title: "Research and projects."
+  - title: "Research and projects"
     url: /research/
   - title: "Miscellaneous"
     url: /about/
