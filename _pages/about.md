@@ -1,6 +1,6 @@
 ---
 
-layout: "single"
+layout: "posts"
 permalink: /about/
 collection: about
 intro:
