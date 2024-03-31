@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seetharam Krishnapuram"
-  avatar           : "/images/EAD_Seetharam.jpg"
-  bio              : "M.S. Student at Virginia Tech, interested in mechatronics, robotics and control theory"
-  location         : "Blacksburg VA"
+  name             : #"Seetharam Krishnapuram"
+  avatar           : #"/images/EAD_Seetharam.jpg"
+  bio              : #"M.S. Student at Virginia Tech, interested in mechatronics, robotics and control theory"
+  location         : #"Blacksburg VA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seetharamks@vt.edu"
+      url: #"mailto:seetharamks@vt.edu"
   #  - label: "Website"
    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ks-seetharam/"
+      url: #"https://www.linkedin.com/in/ks-seetharam/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
