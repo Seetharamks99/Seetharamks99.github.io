@@ -17,6 +17,7 @@ feature_row:
     url: /Interest/
     btn_label: "Know more"
     btn_class: "btn--primary"      
+
 feature_row2:
   - title: "Experience"
     excerpt: "I worked in ASML as a Mechatronics Intern, during the summer of 2023. ASML is one of the leading manufacturers of equipment for semiconductor 
@@ -35,5 +36,5 @@ feature_row3:
 
 {% include feature_row id ="intro" type="center" %}
 {% include feature_row type="center" %}
-{% include feature_row2 type="center" %}
-{% include feature_row3 type="center" %}
+{% include feature_row id ="feature_row2" type="center" %}
+{% include feature_row id ="feature_row3" type="center" %}
