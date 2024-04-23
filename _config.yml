@@ -24,8 +24,8 @@ url                      : "https://seetharamks99.github.io"
 giturl                   : "seetharamks99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seetharamks99/Seetharamks99.github.io"
-teaser                   : #"/images/biopic.jpg"
-logo                     : #"/images/biopic.jpg"
+teaser                   : "/images/biopic.jpg"
+logo                     : "/images/biopic.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
 # breadcrumbs            : false # true, false (default)
