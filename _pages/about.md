@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-I am Seetharam, a recent graduate from [Virginia Tech](https://www.vt.edu/){: .btn .btn--primary}. At Virginia tech, I obtained my Master of Science in Mechanical Engineering, with a thesis option. Prior to this, I was a student at [National Institute of Technology](https://www.nitt.edu/), Trichy shortly known as NIT Trichy, one of the top 10 engineering schools in India. 
+I am Seetharam, a recent graduate from [Virginia Tech](https://www.vt.edu/). At Virginia tech, I obtained my Master of Science in Mechanical Engineering, with a thesis option. Prior to this, I was a student at [National Institute of Technology](https://www.nitt.edu/), Trichy shortly known as NIT Trichy, one of the top 10 engineering schools in India. 
 
 
 ## Experience
@@ -14,7 +14,7 @@ I worked in [ASML](https://www.asml.com/en) as a Mechatronics Intern, during the
 manufacturing, supplying machines to companies like Intel, TSMC, Samsung, Micron and more. I was working on Mechatronics modules in their machines, and helping
 in solving diagnostic issues faced at customer sites. 
 
-
+[Know more](/Interest/){: .btn .btn--primary}
     
 
 
