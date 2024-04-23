@@ -24,8 +24,8 @@ url                      : "https://seetharamks99.github.io"
 giturl                   : "seetharamks99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seetharamks99/Seetharamks99.github.io"
-teaser                   : "/images/biopic.jpg"
-logo                     : "/images/biopic.jpg"
+teaser                   : #"/images/biopic.jpg"
+logo                     : #"/images/biopic.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
 # breadcrumbs            : false # true, false (default)
@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Seetharam Krishnapuram"
-  avatar           : #"/images/EAD_Seetharam.jpg"
-  bio              : #"M.S. Student at Virginia Tech, interested in mechatronics, robotics and control theory"
-  location         : #"Blacksburg VA"
+  name             : "Seetharam Krishnapuram"
+  avatar           : "/images/EAD_Seetharam.jpg"
+  bio              : "M.S. Student at Virginia Tech, interested in mechatronics, robotics and control theory"
+  location         : "Blacksburg VA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:seetharamks@vt.edu"
+      url: "mailto:seetharamks@vt.edu"
   #  - label: "Website"
    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: #"https://www.linkedin.com/in/ks-seetharam/"
+      url: "https://www.linkedin.com/in/ks-seetharam/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
