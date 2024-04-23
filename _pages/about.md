@@ -1,6 +1,6 @@
 ---
 
-layout: "single"
+layout: "splash"
 classes: wide
 permalink: /about/
 collection: about
