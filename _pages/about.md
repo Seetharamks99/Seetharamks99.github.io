@@ -2,7 +2,7 @@
 layout: "single"
 classes: wide
 permalink: /about/
-collection: "about"
+
 ---
    
     
