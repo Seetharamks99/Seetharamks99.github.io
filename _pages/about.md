@@ -1,6 +1,5 @@
 ---
 layout: "single"
-classes: wide
 permalink: /about/
 collection: "about"
     excerpt: "I obtained my Master in Science in Mechanical Engineering, with a thesis. I defended my Masters in the March of 2024. I was a graduate research
