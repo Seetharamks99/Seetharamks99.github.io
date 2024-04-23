@@ -4,7 +4,8 @@ layout: "single"
 classes: wide
 permalink: /about/
 collection: about
- - title: " About me"
+intro:
+  - title: " About me"
     excerpt: "I am Seetharam, a recent graduate from Virginia Tech. At Virginia tech, I obtained my Master of Science in Mechanical Engineering, with a thesis option. Prior to this, I was a student at National Institute of Technology, Trichy shortly known as NIT Trichy, one of the top 10 engineering schools in India."
 feature_row:
   - title: "Education"
