@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Draft Post"
+classes : wide
 permalink : /Interest/
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
