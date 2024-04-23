@@ -1,14 +1,16 @@
 ---
 
 layout: "single"
+classes: wide
 permalink: /about/
 collection: about
 intro:
   - title: " About me"
-  - classes: wide
+    classes: wide
     excerpt: "I am Seetharam, a recent graduate from Virginia Tech. At Virginia tech, I obtained my Master of Science in Mechanical Engineering, with a thesis option. Prior to this, I was a student at National Institute of Technology, Trichy shortly known as NIT Trichy, one of the top 10 engineering schools in India."
 feature_row:
   - title: "Education"
+    classes: wide
     excerpt: "I obtained my Master in Science in Mechanical Engineering, with a thesis. I defended my Masters in the March of 2024. I was a graduate research
     assistant at the Assistive Robotics Lab, and a graduate teaching assistant for the courses Mechatronics: Theory and Application and Mechanical Design Lab.
     As a part of my graduate coursework, I also took a lot of courses in the field of robotics, mechatronics and control theory. Prior to this, I was an     
@@ -29,8 +31,9 @@ feature_row2:
     btn_class: "btn--primary"
        
 feature_row3:
+  - classes : wide
   - title: "Hobbies and Miscellaneous"
-    excerpt: " When times I am not working, I like to play badminton. I have been playing badminton since elementary school, and I have found the sport to help me      be fit, and also develop my reflexes. I also love playing table tennis, commonly known as ping pong, and cricket. I also like listening to songs, I used to         sing at a young age as well. I play the keyboard (piano), which I have learnt for around 8 years. I have performed at several occasions, in and outside of          school. I also like to read books, watch TV series on Netflix and so on. " 
+     excerpt: " When times I am not working, I like to play badminton. I have been playing badminton since elementary school, and I have found the sport to help me      be fit, and also develop my reflexes. I also love playing table tennis, commonly known as ping pong, and cricket. I also like listening to songs, I used to         sing at a young age as well. I play the keyboard (piano), which I have learnt for around 8 years. I have performed at several occasions, in and outside of          school. I also like to read books, watch TV series on Netflix and so on. " 
 
 
 ---
