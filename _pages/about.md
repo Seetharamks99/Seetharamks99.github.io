@@ -1,7 +1,6 @@
 ---
 
 layout: "single"
-classes: wide
 permalink: /about/
 collection: about
 intro:
@@ -20,6 +19,7 @@ feature_row:
 
 feature_row2:
   - title: "Experience"
+    classes: wide
     excerpt: "I worked in ASML as a Mechatronics Intern, during the summer of 2023. ASML is one of the leading manufacturers of equipment for semiconductor 
     manufacturing, supplying machines to companies like Intel, TSMC, Samsung, Micron and more. I was working on Mechatronics modules in their machines, and helping
     in solving diagnostic issues faced at customer sites. "
@@ -34,7 +34,7 @@ feature_row3:
 
 
 ---
-{% include feature_row id ="intro" %}
+{% include feature_row id ="intro" type = "center" %}
 {% include feature_row %}
 {% include feature_row id ="feature_row2"  %}
 {% include feature_row id ="feature_row3"%}
