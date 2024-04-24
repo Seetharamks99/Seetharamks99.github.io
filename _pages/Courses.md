@@ -4,14 +4,14 @@ layout: collection
 permalink: /Courses/
 entries_layout: grid
 
-intro:
+feature_row:
   - title: "Mechatronics Thoery and application"
 
-intro2:
+feature_row2:
   - title: "Robotics and Automation"
   
 ---
-{% include intro %}
-{% include intro2 %}
+{% include feature_row %}
+{% include feature_row2 %}
 
 
