@@ -1,5 +1,11 @@
 ---
+title: Courses
+layout: collection
+permalink: /Courses/
+entries_layout: grid
 
-layout : categories
 ---
 
+Mechatronics: Theory and application
+
+Robotics and Automation
