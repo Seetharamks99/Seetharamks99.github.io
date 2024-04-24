@@ -5,9 +5,9 @@ permalink: /Courses/
 entries_layout: grid
 
 intro:
-  - title : Mechatronics Thoery and application
+  - title : "Mechatronics Thoery and application"
 intro2
-  - title : Robotics and Automation
+  - title : "Robotics and Automation"
   
 ---
 {% include intro %}
