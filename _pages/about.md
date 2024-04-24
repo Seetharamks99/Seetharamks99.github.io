@@ -26,6 +26,7 @@ assistant at the Assistive Robotics Lab, and a graduate teaching assistant for t
 As a part of my graduate coursework, I also took a lot of courses in the field of robotics, mechatronics and control theory. Prior to this, I was an     
 undergraduate at NIT Trichy, (National Institute of Technology) one of the top 10 institutions in the India for Engineering. I majored in Mechanical                Engineering with a minor in Electrical and Electronics Engineering. I was also part of several clubs, associations and served as the Technical Secretary for        the Mechanical Engineering Association.
 
+[Coursework](/Courses/){: .btn .btn--primary}
 
 ## Hobbies and Miscellaneous
 
