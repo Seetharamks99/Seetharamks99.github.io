@@ -316,4 +316,12 @@ defaults:
       type: posts
     values:
       layout: single
+  # -myCourses
+  - scope:
+      path: "_myCourses"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
  
