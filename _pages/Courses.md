@@ -7,3 +7,4 @@ collection: myCourses
 
 ---
 
+Sample document listing for the collection `_myCourses`.
