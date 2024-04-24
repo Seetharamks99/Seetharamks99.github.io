@@ -3,7 +3,7 @@ title: "Courseone"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image:  /images/biopic2.jpg
-  teaser: /images/biopic2.jog
+  teaser: /images/biopic2.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
