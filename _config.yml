@@ -286,6 +286,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  myCourses:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
