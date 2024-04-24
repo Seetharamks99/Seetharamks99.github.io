@@ -2,8 +2,8 @@
 title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /images/researchpic.png
-  teaser: images/biopic.jog
+  image: /images/biopic2.jpg
+  teaser: images/biopic2.jog
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,14 +12,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /images/researchpic.png
-    image_path: images/researchpic.png
+  - url: /images/biopic.jpg
+    image_path: images/biopic.jpg
     alt: "placeholder image 1"
-  - url: /images/researchpic.png
-    image_path: images/researchpic.png
+  - url: /images/biopic.jpg
+    image_path: images/biopic.jpg
     alt: "placeholder image 2"
-  - url: /images/researchpic.png
-    image_path: images/researchpic.png
+  - url: /images/biopic.jpg
+    image_path: images/biopic.jpg
     alt: "placeholder image 3"
 ---
 
