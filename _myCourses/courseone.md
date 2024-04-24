@@ -1,8 +1,8 @@
 ---
-title: "Baz Boom Identity"
+title: "Courseone"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /images/biopic2.jpg
+  image:  /images/biopic2.jpg
   teaser: /images/biopic2.jog
 sidebar:
   - title: "Role"
