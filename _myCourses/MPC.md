@@ -1,6 +1,6 @@
 ---
-title: "Fizz Bang Identity"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+title: "MPC for agile locomotion"
+excerpt: "This course covers the concepts of Model Predictive Control (MPC), and focuses on implementing MPC based control on quadrupeds, drones, bipeds etc."
 header:
   image: /images/biopic2.jpg
   teaser: /images/biopic2.jpg
