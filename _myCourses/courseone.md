@@ -1,6 +1,6 @@
 ---
-title: "Courseone"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Mechatronics: Theory and Application"
+excerpt: "A course on embedded systems, actuators, sensors and system integration."
 header:
   image:  /images/biopic2.jpg
   teaser: /images/biopic2.jpg
